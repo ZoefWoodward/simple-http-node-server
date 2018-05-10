@@ -1,10 +1,10 @@
-const http = require
+const http = require('http');
 const port = 3000;
 
 //Handles HTTP requests.
 
 const requestHandler = (request, response) => {
-    response.end(`Handling a request on port ${port}`) 
+    response.end(`Handling a request on port ${port}`)
 };
 
 //Create a server and pass in the requestHandler function.

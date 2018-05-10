@@ -13,7 +13,6 @@
   "author": "Zoe Woodward",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "less": "^3.0.4",
+    "express": "^4.16.3"
   }
 }
